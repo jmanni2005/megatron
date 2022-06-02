@@ -10,5 +10,6 @@ public class Test {
 		System.out.println("pinkprint is the better album");
 		System.out.println("whys the fucking teacher telling us abt fire drills");
 		System.out.println("i hate people who take AP classes");
+		System.out.println("azealia banks isnt problematic");
 	}
 }
